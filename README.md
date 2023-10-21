@@ -11,9 +11,9 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
   
   - Check data from AVL Tree. If there are no data, display:
   
-  There's no dinosaur here!
+  **There's no dinosaur here!**
   
-  Press enter to back...
+  **Press enter to back...**
 
   - Otherwise, prompt user to input View Input. Validate the input must be between “Pre”, “In”, and “Post” (case sensitive)
 
@@ -37,9 +37,9 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
   
   - Check data from AVL Tree. If there are no data, display:
   
-  There's no dinosaur here!
+  **There's no dinosaur here!**
   
-  Press enter to back...
+  **Press enter to back...**
 
   - Otherwise,
   1. Display all data in in-order format
@@ -47,14 +47,14 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
   3. Check data from AVL Tree based on input
   4. If there are no data exists, display:
 
-  Input Dino to be find: A
+  **Input Dino to be find: A**
 
-  We can't find dino with A name
+  **We can't find dino with A name**
   
   5. Otherwise, remove corresponding data from AVL Tree and display:
 
-  Input Dino to be find: Brontosaurus Y
+  **Input Dino to be find: Brontosaurus Y**
 
-  Remove sucessful
+  **Remove sucessful**
 
 - If user choose menu 4 (Exit), the program will close
