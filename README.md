@@ -9,13 +9,13 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
 
 - If user choose menu 1 (See Dinosaur), the program will
   
-  -> Check data from AVL Tree. If there are no data, display:
+  - Check data from AVL Tree. If there are no data, display:
   
   There's no dinosaur here!
   
   Press enter to back...
 
-  -> Otherwise, prompt user to input View Input. Validate the input must be between “Pre”, “In”, and “Post” (case sensitive)
+  - Otherwise, prompt user to input View Input. Validate the input must be between “Pre”, “In”, and “Post” (case sensitive)
 
   Notes:
   1. If View Input is “Pre”, display all data in pre-order format
@@ -35,13 +35,13 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
  
 - If user choose menu 3 (Remove Dinosaur), the program will
   
-  -> Check data from AVL Tree. If there are no data, display:
+  - Check data from AVL Tree. If there are no data, display:
   
   There's no dinosaur here!
   
   Press enter to back...
 
-  --> Otherwise,
+  - Otherwise,
   1. Display all data in in-order format
   2. Prompt user to input Dinosaur Name
   3. Check data from AVL Tree based on input
