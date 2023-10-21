@@ -50,6 +50,7 @@ Jurassic Jungle is a jungle in BlueJack Island filled with variety of artificial
   Input Dino to be find: A
 
   We can't find dino with A name
+  
   5. Otherwise, remove corresponding data from AVL Tree and display:
 
   Input Dino to be find: Brontosaurus Y
